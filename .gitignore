@@ -1,0 +1,14 @@
+# Large satellite images and patches
+*.tif
+*.tiff
+*.npy
+patches/
+__pycache__/
+.ipynb_checkpoints/
+
+# Virtual environment (if using one)
+venv/
+.env/
+
+# Model weights over 100MB (keep in Google Drive)
+*.pth
